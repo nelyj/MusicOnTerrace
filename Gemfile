@@ -8,7 +8,7 @@ gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'mini_racer', platforms: :ruby
-gem 'spotify-ruby', '~> 0.2.5', git: 'https://github.com/nelyj/spotify-ruby.git'
+gem 'spotify-ruby', git: 'https://github.com/nelyj/spotify-ruby.git', tag: 'v0.2.5'
 
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
